@@ -9,5 +9,6 @@ dependencies:
   - plotly
   - matplotlib
   - scipy
+  - voila
 
 
