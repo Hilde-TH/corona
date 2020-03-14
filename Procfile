@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser Corona_Dash.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True
