@@ -9,6 +9,5 @@ dependencies:
   - plotly
   - matplotlib
   - scipy
-  - widgetsnbextension=3.5.1=py36_0
 
 
