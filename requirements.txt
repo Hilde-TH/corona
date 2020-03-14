@@ -5,3 +5,4 @@ plotly
 datetime
 matplotlib
 scipy
+voila
