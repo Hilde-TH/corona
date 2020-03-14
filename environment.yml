@@ -7,7 +7,6 @@ dependencies:
   - numpy
   - ipywidgets
   - plotly
-  - datetime
   - matplotlib
   - scipy
   - widgetsnbextension=3.5.1=py36_0
