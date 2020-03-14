@@ -1,8 +1,0 @@
-pandas
-numpy
-ipywidgets
-plotly
-datetime
-matplotlib
-scipy
-voila
