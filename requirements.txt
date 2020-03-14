@@ -1,0 +1,9 @@
+pandas
+numpy
+ipywidgets
+import
+import
+plotly
+datetime
+matplotlib
+scipy
